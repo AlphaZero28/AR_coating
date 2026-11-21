@@ -14,7 +14,7 @@ c = 299_792_458.0
 # ---------------- settings ----------------
 eps_i = 1.0                # incident medium (air)
 eps_s = 4.0                # substrate
-f0 = 20e6                  # design frequency
+f0 = 20e6                  
 
 N = 4                                  
 eps = [2, 3, 2, 3]                     

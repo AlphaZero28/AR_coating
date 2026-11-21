@@ -11,7 +11,7 @@ from fdtd import FDTD1D, C0
 
 plt.rcParams["font.family"] = "Times New Roman"
 plt.rcParams["mathtext.fontset"] = "stix"
-plt.rcParams["font.size"] = 18
+plt.rcParams["font.size"] = 18 
 
 # ---------------- settings ----------------
 eps_i = 1.0
