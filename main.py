@@ -1,8 +1,3 @@
-"""
- * author Ohidul Islam
- * created on 20-11-2026-23h-14m
- * copyright 2026
-"""
 
 """
 Anti-reflective coating at 20 MHz -- 1D FDTD.
